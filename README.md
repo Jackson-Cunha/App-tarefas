@@ -1,4 +1,4 @@
-# App-tarefas
+# App-tarefas para Sistemas Android
 Aplicativo feito com Reac Native
 
 # Descrição
